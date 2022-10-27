@@ -5,35 +5,35 @@
 "id":1,
 "name": "Bhavesh Jadhav",
 "username": "Bhavesh@123",
-"image": "creditcard1.jpg",
+"image": "creditcard1.png",
 "email": "bhavesh.jadhav@tcs.com"
 },
 {
 "id": 2,
 "name": "Janhvi Shenoy",
 "username": "Janhvi@123",
-"image": "creditcard2.jpg",
+"image": "creditcard2.png",
 "email": "janhvi.shenoy@tcs.com"
 },
 {
 "id": 3,
 "name": "Ritik Dhakad",
 "username": "Ritik@123",
-"image": "creditcard3.jpg",
+"image": "creditcard3.png",
 "email": "ritik.dhakad@tcs.com"
 },
 {
 "id": 4,
 "name": "Nikhil Jadhav",
 "username": "Nikhil@123",
-"image": "creditcard4.jpg",
+"image": "creditcard4.png",
 "email": "nikhil.jadhav@tcs.com"
 },
 {
 "id": 5,
 "name": "Akshaya Samant",
 "username": "Akshaya@123",
-"image": "creditcard5.jpg",
+"image": "creditcard5.png",
 "email": "akshaya.samant@tcs.com"
 }
 ]
