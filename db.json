@@ -1,15 +1,18 @@
 {
 "users":[
 {
+
 "id":1,
 "name": "Bhavesh Jadhav",
-"username": "Bhavesh@123", 
+"username": "Bhavesh@123",
+"image": "background.jpg",
 "email": "bhavesh.jadhav@tcs.com"
 },
 {
 "id": 2,
 "name": "Janhvi Shenoy",
-"username": "Janhvi@123", 
+"username": "Janhvi@123",
+"image": "background2.jpg",
 "email": "Janhvi.shenoy@tcs.com"
 }
 ]
