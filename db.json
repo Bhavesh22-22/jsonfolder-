@@ -13,7 +13,28 @@
 "name": "Janhvi Shenoy",
 "username": "Janhvi@123",
 "image": "background2.jpg",
-"email": "Janhvi.shenoy@tcs.com"
+"email": "janhvi.shenoy@tcs.com"
+},
+{
+"id": 3,
+"name": "Ritik Dhakad",
+"username": "Ritik@123",
+"image": "background1.jpg",
+"email": "ritik.dhakad@tcs.com"
+},
+{
+"id": 4,
+"name": "Nikhil Jadhav",
+"username": "Nikhil@123",
+"image": "background2.jpg",
+"email": "nikhil.jadhav@tcs.com"
+},
+{
+"id": 5,
+"name": "Akshaya Samant",
+"username": "Akshaya@123",
+"image": "background.jpg",
+"email": "akshaya.samant@tcs.com"
 }
 ]
 }
