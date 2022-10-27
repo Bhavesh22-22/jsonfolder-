@@ -1,0 +1,16 @@
+{
+"users":[
+{
+"id":1,
+"name": "Bhavesh Jadhav",
+"username": "Bhavesh@123", 
+"email": "bhavesh.jadhav@tcs.com"
+},
+{
+"id": 2,
+"name": "Janhvi Shenoy",
+"username": "Janhvi@123", 
+"email": "Janhvi.shenoy@tcs.com"
+}
+]
+}
