@@ -52,21 +52,13 @@
 {
 "id": 6,
 "name": "Abhishek Singh",
-"username": "Akshaya@123",
-"image1": "creditcard2.png",
-"image2": "creditcardbackside2.png",
-"email": "akshaya.samant@tcs.com"
-},
-{
-"id": 7,
-"name": "Akshaya Samant",
 "username": "Abhishek@123",
 "image1": "creditcard3.png",
 "image2": "creditcardbackside3.png",
 "email": "abhishek.psingh2@tcs.com"
 },
 {
-"id": 8,
+"id": 7,
 "name": "Abdul Basith Mohammad",
 "username": "Abdul@123",
 "image1": "creditcard4.png",
